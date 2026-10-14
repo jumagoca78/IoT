@@ -15,7 +15,6 @@ Este repositorio reúne y organiza ejemplos de programación utilizados para ens
 
 El código acompaña el trabajo de modelado: **entidad-relación → modelo relacional → UML → responsabilidades y patrones → servicios → integración IoT**. Se utiliza con casos como CampusIoT, gimnasio inteligente, estacionamiento, parque, semáforos y casa sustentable.
 
-> **Alcance de este paquete:** contiene exclusivamente las cuatro implementaciones del simulador de patos con el patrón **Estrategia (Strategy)**. Los ejemplos de MySQL, APIs, Observer y retos IoT corresponden a la ruta pedagógica general del curso; **no se incluyen en este ZIP**.
 
 ## ¿Qué problema resuelve el simulador de patos?
 
